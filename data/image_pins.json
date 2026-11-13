@@ -1,0 +1,129 @@
+{
+ "apollo11": {
+  "main": {
+   "id": "AS11-40-5903",
+   "t": "Aldrin beside the Apollo 11 lunar module",
+   "u": "https://images-assets.nasa.gov/image/as11-40-5903/as11-40-5903~large.jpg",
+   "m": "https://images-assets.nasa.gov/image/as11-40-5903/as11-40-5903~medium.jpg",
+   "l": "https://images.nasa.gov/details/as11-40-5903",
+   "c": "NASA · Apollo 11 · 1969"
+  },
+  "scenic": {
+   "id": "art002e009288",
+   "t": "Artemis II: Earthset through Orion's window",
+   "u": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg",
+   "l": "https://www.nasa.gov/image-detail/art002e009288/",
+   "c": "NASA · Artemis II · 2026"
+  }
+ },
+ "lrv": {
+  "scenic": {
+   "id": "art002e009567",
+   "t": "Artemis II: the Moon and Earth in one frame",
+   "u": "https://images-assets.nasa.gov/image/art002e009567/art002e009567~large.jpg",
+   "m": "https://images-assets.nasa.gov/image/art002e009567/art002e009567~medium.jpg",
+   "l": "https://www.nasa.gov/image-detail/art002e009567/",
+   "c": "NASA · Artemis II · 2026"
+  }
+ },
+ "alsep": {
+  "scenic": {
+   "id": "art002e015231",
+   "t": "Artemis II: crescent Earth above the lunar horizon",
+   "u": "https://images-assets.nasa.gov/image/art002e015231/art002e015231~large.jpg",
+   "m": "https://images-assets.nasa.gov/image/art002e015231/art002e015231~medium.jpg",
+   "l": "https://www.nasa.gov/image-detail/art002e015231/",
+   "c": "NASA · Artemis II · 2026"
+  }
+ },
+ "surveyor3": {
+  "main": {
+   "id": "AS12-48-7133",
+   "t": "Pete Conrad with Surveyor 3 and the Apollo 12 lunar module",
+   "u": "https://images-assets.nasa.gov/image/as12-48-7133/as12-48-7133~large.jpg",
+   "m": "https://images-assets.nasa.gov/image/as12-48-7133/as12-48-7133~medium.jpg",
+   "l": "https://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a12_h_48_7133.html",
+   "c": "NASA · Apollo 12 · 1969"
+  },
+  "scenic": {
+   "id": "art002e016354",
+   "t": "Artemis II: a thin lunar crescent on the way home",
+   "u": "https://images-assets.nasa.gov/image/art002e016354/art002e016354~large.jpg",
+   "m": "https://images-assets.nasa.gov/image/art002e016354/art002e016354~medium.jpg",
+   "l": "https://www.nasa.gov/image-detail/art002e016354/",
+   "c": "NASA · Artemis II · 2026"
+  }
+ },
+ "spirit": {
+  "main": {
+   "id": "PIA07997",
+   "t": "Sunset at Mars' Gusev Crater (Spirit)",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA07997.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA07997/PIA07997~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA07997",
+   "c": "NASA/JPL/Texas A&M/Cornell"
+  },
+  "scenic": {
+   "id": "PIA04180",
+   "t": "Spirit's 'Sunset Ridge' panorama (Looking Up from the Deep)",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA04180.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA04180/PIA04180~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA04180",
+   "c": "NASA/JPL/Cornell"
+  }
+ },
+ "opportunity": {
+  "main": {
+   "id": "PIA10007",
+   "t": "Duck Bay, Victoria Crater (Opportunity)",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA10007.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA10007/PIA10007~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA10007",
+   "c": "NASA/JPL"
+  },
+  "scenic": {
+   "id": "PIA09104",
+   "t": "Victoria Crater from Cape Verde (Opportunity)",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA09104.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA09104/PIA09104~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA09104",
+   "c": "NASA/JPL"
+  }
+ },
+ "insight": {
+  "main": {
+   "id": "PIA22876",
+   "t": "InSight's first selfie",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA22876.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA22876/PIA22876~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA22876",
+   "c": "NASA/JPL-Caltech"
+  },
+  "scenic": {
+   "id": "PIA25287",
+   "t": "InSight's final selfie",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA25287.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA25287/PIA25287~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA25287",
+   "c": "NASA/JPL-Caltech"
+  }
+ },
+ "ingenuity": {
+  "main": {
+   "id": "PIA24584",
+   "t": "Ingenuity's shadow during the first flight",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA24584.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA24584/PIA24584~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA24584",
+   "c": "NASA/JPL-Caltech"
+  },
+  "scenic": {
+   "id": "PIA24793",
+   "t": "South Séítah, Jezero Crater, seen by Ingenuity",
+   "u": "https://photojournal.jpl.nasa.gov/jpeg/PIA24793.jpg",
+   "m": "https://images-assets.nasa.gov/image/PIA24793/PIA24793~medium.jpg",
+   "l": "https://photojournal.jpl.nasa.gov/catalog/PIA24793",
+   "c": "NASA/JPL-Caltech"
+  }
+ }
+}

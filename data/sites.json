@@ -1,0 +1,182 @@
+{
+ "moon": [
+  {
+   "name": "Mare Tranquillitatis",
+   "lat": 8.5,
+   "lon": 31.4,
+   "r": 8,
+   "type": "Dark plain",
+   "blurb": "The Sea of Tranquility is a vast plain of dark volcanic rock. Apollo 11 landed near its edge in 1969."
+  },
+  {
+   "name": "Tycho Crater",
+   "lat": -43.3,
+   "lon": -11.4,
+   "r": 4,
+   "type": "Impact crater",
+   "blurb": "A young crater about 85 kilometers wide. Bright streaks of ejected material stretch more than 1,500 kilometers across the Moon."
+  },
+  {
+   "name": "Copernicus Crater",
+   "lat": 9.6,
+   "lon": -20.1,
+   "r": 3,
+   "type": "Impact crater",
+   "blurb": "A crater about 93 kilometers wide with terraced walls and a cluster of central peaks."
+  },
+  {
+   "name": "Mare Imbrium",
+   "lat": 32.8,
+   "lon": -15.6,
+   "r": 10,
+   "type": "Dark plain",
+   "blurb": "The Sea of Showers filled with lava after a giant impact roughly 3.9 billion years ago."
+  },
+  {
+   "name": "Oceanus Procellarum",
+   "lat": 18.4,
+   "lon": -57.4,
+   "r": 14,
+   "type": "Dark plain",
+   "blurb": "The largest dark plain on the Moon, stretching across much of the western near side."
+  },
+  {
+   "name": "South Pole–Aitken Basin",
+   "lat": -53,
+   "lon": -169,
+   "r": 20,
+   "type": "Impact basin",
+   "blurb": "One of the largest known impact basins in the solar system, about 2,500 kilometers across, on the far side."
+  },
+  {
+   "name": "Shackleton Crater",
+   "lat": -89.9,
+   "lon": 0,
+   "r": 4,
+   "type": "Polar crater",
+   "blurb": "Near the south pole. Parts of its floor never see sunlight and may hold water ice."
+  },
+  {
+   "name": "Hadley–Apennine",
+   "lat": 26.1,
+   "lon": 3.6,
+   "r": 2.5,
+   "type": "Landing site",
+   "blurb": "Apollo 15 landed beside Hadley Rille and drove the first Lunar Roving Vehicle here in 1971."
+  }
+ ],
+ "mars": [
+  {
+   "name": "Olympus Mons",
+   "lat": 18.65,
+   "lon": -133.8,
+   "r": 6,
+   "type": "Volcano",
+   "blurb": "The tallest known volcano in the solar system, about 22 kilometers high, roughly two and a half times taller than Everest."
+  },
+  {
+   "name": "Tharsis Region",
+   "lat": 1,
+   "lon": -105,
+   "r": 16,
+   "type": "Volcanic plateau",
+   "blurb": "A huge raised region holding three giant volcanoes in a row: Arsia, Pavonis and Ascraeus Mons."
+  },
+  {
+   "name": "Valles Marineris",
+   "lat": -14,
+   "lon": -59,
+   "r": 14,
+   "type": "Canyon system",
+   "blurb": "A canyon system about 4,000 kilometers long and up to 7 kilometers deep, far larger than the Grand Canyon."
+  },
+  {
+   "name": "Gale Crater",
+   "lat": -5.4,
+   "lon": 137.8,
+   "r": 3,
+   "type": "Impact crater",
+   "blurb": "A crater about 154 kilometers wide with a 5-kilometer-high mound, Mount Sharp, at its center. Curiosity explores it."
+  },
+  {
+   "name": "Jezero Crater",
+   "lat": 18.4,
+   "lon": 77.5,
+   "r": 3,
+   "type": "Ancient lake",
+   "blurb": "A crater with the remains of a river delta. Perseverance landed here in 2021 to look for signs of past life."
+  },
+  {
+   "name": "Hellas Planitia",
+   "lat": -42.4,
+   "lon": 70.5,
+   "r": 12,
+   "type": "Impact basin",
+   "blurb": "One of the largest impact basins in the solar system, about 2,300 kilometers wide and several kilometers deep."
+  },
+  {
+   "name": "Utopia Planitia",
+   "lat": 46.7,
+   "lon": 117.5,
+   "r": 14,
+   "type": "Plain",
+   "blurb": "A vast smooth plain in the northern lowlands. Viking 2 landed here in 1976."
+  },
+  {
+   "name": "North Polar Cap",
+   "lat": 88,
+   "lon": 0,
+   "r": 8,
+   "type": "Ice cap",
+   "blurb": "Layered water ice topped by a thin seasonal frost of frozen carbon dioxide."
+  },
+  {
+   "name": "Ares Vallis",
+   "lat": 19.1,
+   "lon": -33.2,
+   "r": 4,
+   "type": "Flood channel",
+   "blurb": "An ancient flood channel. Mars Pathfinder and the Sojourner rover landed here in 1997."
+  },
+  {
+   "name": "Gusev Crater",
+   "lat": -14.6,
+   "lon": 175.5,
+   "r": 4,
+   "type": "Impact crater",
+   "blurb": "A crater about 160 kilometers wide that may once have held a lake. The Spirit rover explored it."
+  },
+  {
+   "name": "Meridiani Planum",
+   "lat": -2,
+   "lon": -5,
+   "r": 6,
+   "type": "Plain",
+   "blurb": "A flat plain with hematite, a mineral that often forms with water. The Opportunity rover landed here."
+  },
+  {
+   "name": "Chryse Planitia",
+   "lat": 26,
+   "lon": -42,
+   "r": 9,
+   "type": "Lowland plain",
+   "blurb": "A huge low plain where Viking 1 landed in 1976."
+  },
+  {
+   "name": "Elysium Planitia",
+   "lat": 3,
+   "lon": 135,
+   "r": 9,
+   "type": "Plain",
+   "blurb": "A smooth plain near the equator where the InSight lander listened for marsquakes."
+  },
+  {
+   "name": "Vastitas Borealis",
+   "lat": 68.2,
+   "lon": -125.7,
+   "r": 6,
+   "type": "Arctic plain",
+   "blurb": "A cold northern plain where the Phoenix lander found water ice just under the soil."
+  }
+ ]
+}

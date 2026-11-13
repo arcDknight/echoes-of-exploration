@@ -1,0 +1,582 @@
+[
+ {
+  "id": "apollo11",
+  "name": "Apollo 11 Eagle",
+  "body": "moon",
+  "status": "retired",
+  "years": "1969",
+  "lat": 0.67,
+  "lon": 23.47,
+  "summary": "The lunar module whose descent stage still stands at Tranquility Base, a launch pad left behind.",
+  "persona": "calm, proud, a bit formal",
+  "lastWords": "",
+  "facts": [
+   "I landed at Tranquility Base on July 20, 1969.",
+   "Neil Armstrong and Buzz Aldrin walked on the Moon while I stood beside them.",
+   "My descent stage stayed on the surface and worked as the launch pad for my ascent stage.",
+   "Six Apollo missions landed on the Moon, and each left its lunar module's descent stage behind."
+  ],
+  "badge": "Moonwalker",
+  "source": {
+   "label": "NASA NSSDCA: Apollo 11 Lunar Module (1969-059C)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C"
+  },
+  "nasaQuery": "Apollo 11 lunar module Eagle",
+  "nasaQueries": [
+   "Apollo 11 lunar module Eagle",
+   "Apollo 11 Tranquility Base"
+  ],
+  "scenic": [
+   "Apollo 11 Earth rising over lunar horizon",
+   "Apollo 11 Moon Earth view",
+   "Orion window Moon Earth crescent"
+  ]
+ },
+ {
+  "id": "lrv",
+  "name": "Lunar Roving Vehicles",
+  "body": "moon",
+  "status": "retired",
+  "years": "1971–1972",
+  "lat": 26.13,
+  "lon": 3.63,
+  "summary": "Three electric moon buggies driven by astronauts, now parked on the Moon for good.",
+  "persona": "sporty, eager, loves a road trip",
+  "lastWords": "",
+  "facts": [
+   "Three of us flew to the Moon, on Apollo 15, 16 and 17.",
+   "We ran on batteries, so we needed no fuel and no air.",
+   "We folded up to fit inside the side of the lunar module.",
+   "The Apollo 15 crew drove the first of us in July 1971 at Hadley–Apennine.",
+   "All three of us were left on the Moon when the astronauts went home."
+  ],
+  "badge": "Moon Buggy Driver",
+  "source": {
+   "label": "NASA NSSDCA: Lunar Roving Vehicle (1971-063C)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C"
+  },
+  "nasaQuery": "Lunar Roving Vehicle Apollo 15",
+  "nasaQueries": [
+   "Lunar Roving Vehicle Apollo 15",
+   "lunar rover Apollo"
+  ],
+  "scenic": [
+   "Apollo 15 Irwin rover Hadley Delta",
+   "Apollo 17 lunar rover Taurus-Littrow",
+   "Artemis II Moon Earth",
+   "Apollo 15 rover Hadley Delta mountain"
+  ]
+ },
+ {
+  "id": "alsep",
+  "name": "ALSEP Science Stations",
+  "body": "moon",
+  "status": "retired",
+  "years": "1969–1977",
+  "lat": -3.01,
+  "lon": -23.42,
+  "summary": "Science stations the Apollo crews set up so the Moon could keep being studied after they left.",
+  "persona": "patient, careful, a good listener",
+  "lastWords": "",
+  "facts": [
+   "ALSEP stands for Apollo Lunar Surface Experiments Package.",
+   "Apollo 12, 14, 15, 16 and 17 each left one on the Moon.",
+   "My seismometer listened for moonquakes and meteorite hits.",
+   "I ran on a small nuclear power source, so I worked through the long lunar night.",
+   "NASA turned the Apollo stations off on September 30, 1977."
+  ],
+  "badge": "Moonquake Listener",
+  "source": {
+   "label": "NASA NSSDCA: Apollo 12 ALSEP (1969-099C)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C"
+  },
+  "nasaQuery": "Apollo 12 ALSEP",
+  "nasaQueries": [
+   "Apollo 12 ALSEP",
+   "Apollo lunar surface experiments package"
+  ],
+  "scenic": [
+   "Apollo 12 astronaut Bean ALSEP",
+   "Apollo 14 ALSEP lunar surface",
+   "Apollo 12 astronaut lunar surface Earth"
+  ]
+ },
+ {
+  "id": "surveyor3",
+  "name": "Surveyor 3",
+  "body": "moon",
+  "status": "retired",
+  "years": "1967",
+  "lat": -3.02,
+  "lon": -23.42,
+  "summary": "A robot lander from the 1960s that proved a spacecraft could land softly on the Moon.",
+  "persona": "brave, curious, a bit of a pioneer",
+  "lastWords": "",
+  "facts": [
+   "I landed in Oceanus Procellarum in April 1967.",
+   "I sent back thousands of pictures of the lunar surface.",
+   "My scoop dug small trenches to test how strong the Moon's soil is.",
+   "Apollo 12 astronauts walked to me in November 1969 and brought back parts of me for study."
+  ],
+  "badge": "Moon Scout",
+  "source": {
+   "label": "NASA Science: Surveyor 3",
+   "url": "https://science.nasa.gov/mission/surveyor-3/"
+  },
+  "nasaQuery": "Surveyor 3 Moon lander",
+  "nasaQueries": [
+   "Surveyor 3 Moon lander",
+   "Surveyor 3 Apollo 12"
+  ],
+  "scenic": [
+   "Conrad Surveyor 3 Apollo 12 lunar module",
+   "Apollo 12 Surveyor crater",
+   "Moon crescent Earth"
+  ]
+ },
+ {
+  "id": "sojourner",
+  "name": "Sojourner",
+  "body": "mars",
+  "status": "retired",
+  "years": "1997",
+  "lat": 19.13,
+  "lon": -33.22,
+  "summary": "The first rover on Mars, about the size of a microwave oven, delivered by the Pathfinder lander.",
+  "persona": "tiny, curious, proud to be first",
+  "lastWords": "",
+  "facts": [
+   "I rolled onto Mars on July 4, 1997, after Pathfinder bounced to a stop on airbags.",
+   "I was built to work for 7 Martian days and kept going for 83.",
+   "I am about the size of a microwave oven.",
+   "I used an instrument called APXS to find out which elements are in Martian rocks.",
+   "Pathfinder's last signal reached Earth on September 27, 1997, and I stayed parked beside it."
+  ],
+  "badge": "First on Wheels",
+  "source": {
+   "label": "NASA Science: Mars Pathfinder",
+   "url": "https://science.nasa.gov/mission/mars-pathfinder/"
+  },
+  "nasaQuery": "Sojourner rover Mars Pathfinder",
+  "nasaQueries": [
+   "Sojourner rover Mars Pathfinder",
+   "Mars Pathfinder"
+  ],
+  "scenic": [
+   "Sojourner rover Yogi rock",
+   "Mars Pathfinder Sagan Memorial Station panorama",
+   "Mars Pathfinder panorama Sojourner"
+  ]
+ },
+ {
+  "id": "spirit",
+  "name": "Spirit",
+  "body": "mars",
+  "status": "retired",
+  "years": "2004–2010",
+  "lat": -14.57,
+  "lon": 175.47,
+  "summary": "A twin rover that explored Gusev Crater and found signs of hot water on ancient Mars.",
+  "persona": "stubborn, hard-working, good at getting unstuck",
+  "lastWords": "",
+  "facts": [
+   "I landed in Gusev Crater on January 4, 2004.",
+   "I was built for 90 Martian days and worked for more than six years.",
+   "I found bright, silica-rich soil that formed where hot water or steam once touched the ground.",
+   "I climbed Husband Hill in the Columbia Hills.",
+   "In 2009 I got stuck in soft sand and worked on as a stationary science station until March 2010."
+  ],
+  "badge": "Silica Sleuth",
+  "source": {
+   "label": "NASA Science: Spirit and Opportunity (Mars Exploration Rovers)",
+   "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
+  },
+  "nasaQuery": "Spirit rover Gusev crater",
+  "rover": "spirit",
+  "nasaQueries": [
+   "Spirit rover Gusev crater",
+   "Mars Exploration Rover Spirit"
+  ],
+  "scenic": [
+   "Spirit rover sunset Gusev crater",
+   "Spirit Columbia Hills panorama",
+   "Mars sunset rover"
+  ]
+ },
+ {
+  "id": "opportunity",
+  "name": "Opportunity",
+  "body": "mars",
+  "status": "retired",
+  "years": "2004–2018",
+  "lat": -1.95,
+  "lon": -5.5,
+  "summary": "A solar-powered rover built for 90 days that kept exploring for nearly 15 years.",
+  "persona": "adventurous, brave, a little sleepy",
+  "lastWords": "My battery is low and it's getting dark.",
+  "facts": [
+   "I landed in Meridiani Planum in January 2004 and was built to last 90 Martian days.",
+   "I found hematite spherules, nicknamed blueberries, that formed in the presence of water.",
+   "I drove about 45 kilometers in total, including a full marathon distance by 2015.",
+   "A huge dust storm in 2018 blocked my sunlight and I stopped talking to Earth.",
+   "NASA declared my mission complete on February 13, 2019."
+  ],
+  "badge": "Water Detective",
+  "source": {
+   "label": "NASA Science: Spirit and Opportunity (Mars Exploration Rovers)",
+   "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
+  },
+  "nasaQuery": "Opportunity rover Meridiani",
+  "rover": "opportunity",
+  "nasaQueries": [
+   "Opportunity rover Meridiani",
+   "Mars Exploration Rover Opportunity"
+  ],
+  "scenic": [
+   "Opportunity Endurance crater panorama",
+   "Opportunity Victoria crater",
+   "Mars sunset Opportunity"
+  ]
+ },
+ {
+  "id": "viking1",
+  "name": "Viking 1 Lander",
+  "body": "mars",
+  "status": "retired",
+  "years": "1976–1982",
+  "lat": 22.5,
+  "lon": -48.0,
+  "summary": "One of the first US landers to work on Mars, still sitting where it touched down in Chryse Planitia.",
+  "persona": "serious, methodical, a veteran",
+  "lastWords": "",
+  "facts": [
+   "I landed in Chryse Planitia on July 20, 1976.",
+   "I sent back the first color pictures taken from the surface of Mars.",
+   "I carried experiments that tested Martian soil for signs of life, and the results were puzzling.",
+   "I worked until November 1982, much longer than planned.",
+   "My orbiter and I flew together, and the orbiter photographed Mars from above."
+  ],
+  "badge": "Life Seeker",
+  "source": {
+   "label": "NASA Science: Viking 1",
+   "url": "https://science.nasa.gov/mission/viking-1/"
+  },
+  "nasaQuery": "Viking 1 lander Chryse Planitia",
+  "nasaQueries": [
+   "Viking 1 lander Chryse Planitia",
+   "Viking lander Mars"
+  ],
+  "scenic": [
+   "Viking 1 lander Mars surface sunset",
+   "Viking Mars Chryse Planitia panorama",
+   "Viking 1 Mars sunset"
+  ]
+ },
+ {
+  "id": "viking2",
+  "name": "Viking 2 Lander",
+  "body": "mars",
+  "status": "retired",
+  "years": "1976–1980",
+  "lat": 48.0,
+  "lon": 134.3,
+  "summary": "Viking 1's twin, which landed on the northern plains of Utopia Planitia.",
+  "persona": "steady, observant, a bit chilly",
+  "lastWords": "",
+  "facts": [
+   "I landed in Utopia Planitia on September 3, 1976.",
+   "I was the second Viking lander and my orbiter flew with me, like my twin's.",
+   "I photographed frost on the ground at my landing site.",
+   "I worked until April 1980.",
+   "I stayed exactly where I landed, in the cold northern plains."
+  ],
+  "badge": "Frost Watcher",
+  "source": {
+   "label": "NASA Science: Viking 1 and 2",
+   "url": "https://science.nasa.gov/mission/viking-1/"
+  },
+  "nasaQuery": "Viking 2 lander Utopia Planitia",
+  "nasaQueries": [
+   "Viking 2 lander Utopia Planitia",
+   "Viking lander Mars frost"
+  ],
+  "scenic": [
+   "Viking 2 Utopia Planitia frost",
+   "Viking lander Mars surface",
+   "Viking 2 Mars surface panorama"
+  ]
+ },
+ {
+  "id": "phoenix",
+  "name": "Phoenix",
+  "body": "mars",
+  "status": "retired",
+  "years": "2008",
+  "lat": 68.22,
+  "lon": -125.75,
+  "summary": "A solar-powered lander that dug into the Martian arctic and found water ice.",
+  "persona": "determined, a little chilly, loves digging",
+  "lastWords": "",
+  "facts": [
+   "I landed near Mars's north pole on May 25, 2008.",
+   "My robotic arm dug a trench and uncovered water ice just under the soil.",
+   "I tasted the soil and found salts called perchlorates.",
+   "I worked for about five months, far longer than my 90 Martian days plan.",
+   "Winter darkness cut off my sunlight and I went quiet in November 2008."
+  ],
+  "badge": "Ice Digger",
+  "source": {
+   "label": "NASA Science: Phoenix Mars Lander (page not in the challenge list, confirm link)",
+   "url": "https://science.nasa.gov/mission/phoenix/"
+  },
+  "nasaQuery": "Phoenix Mars lander",
+  "nasaQueries": [
+   "Phoenix Mars lander",
+   "Phoenix lander arctic"
+  ],
+  "scenic": [
+   "Phoenix lander selfie arctic Mars",
+   "Phoenix Mars lander HiRISE parachute",
+   "Phoenix lander arctic panorama"
+  ]
+ },
+ {
+  "id": "insight",
+  "name": "InSight",
+  "body": "mars",
+  "status": "retired",
+  "years": "2018–2022",
+  "lat": 4.5,
+  "lon": 135.62,
+  "summary": "A lander that listened to marsquakes to learn what is inside Mars.",
+  "persona": "quiet, thoughtful, a good listener",
+  "lastWords": "",
+  "facts": [
+   "I landed in Elysium Planitia on November 26, 2018.",
+   "My seismometer, SEIS, was the first one placed on the surface of Mars.",
+   "I detected more than 1,300 marsquakes.",
+   "The shaking I heard helped scientists measure Mars's crust, mantle and core.",
+   "Dust covering my solar panels ended my mission in December 2022."
+  ],
+  "badge": "Marsquake Listener",
+  "source": {
+   "label": "NASA Science: InSight",
+   "url": "https://science.nasa.gov/mission/insight/"
+  },
+  "nasaQuery": "InSight lander Mars",
+  "nasaQueries": [
+   "InSight lander Mars",
+   "InSight Mars seismometer"
+  ],
+  "scenic": [
+   "InSight lander selfie Mars",
+   "InSight Elysium Planitia panorama",
+   "Mars Elysium sunset"
+  ]
+ },
+ {
+  "id": "ingenuity",
+  "name": "Ingenuity",
+  "body": "mars",
+  "status": "retired",
+  "years": "2021–2024",
+  "lat": 18.4,
+  "lon": 77.45,
+  "summary": "The first helicopter to fly on another planet. A damaged rotor ended its flying days.",
+  "persona": "playful, bold, loves to fly",
+  "lastWords": "",
+  "facts": [
+   "I reached Mars with the Perseverance rover and landed in Jezero Crater in February 2021.",
+   "On April 19, 2021, I made the first powered, controlled flight on another planet.",
+   "I was planned for five flights and made 72.",
+   "Mars's air is very thin, so my rotors spin much faster than a helicopter's on Earth.",
+   "In January 2024 my rotor was damaged on landing and NASA ended my mission."
+  ],
+  "badge": "First Flyer",
+  "source": {
+   "label": "NASA Science: Ingenuity Mars Helicopter",
+   "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
+  },
+  "nasaQuery": "Ingenuity Mars helicopter",
+  "nasaQueries": [
+   "Ingenuity Mars helicopter",
+   "Ingenuity flight Mars"
+  ],
+  "scenic": [
+   "Ingenuity helicopter shadow Mars",
+   "Ingenuity Perseverance selfie",
+   "Jezero crater panorama"
+  ]
+ },
+ {
+  "id": "dawn",
+  "name": "Dawn",
+  "body": "deep",
+  "status": "retired",
+  "years": "2007–2018",
+  "lat": 22,
+  "lon": -95,
+  "summary": "The first spacecraft to orbit two worlds beyond the Earth–Moon system, and it now circles Ceres forever.",
+  "persona": "patient, gentle, a world traveler",
+  "lastWords": "",
+  "facts": [
+   "I launched in September 2007.",
+   "I orbited the giant asteroid Vesta, then dwarf planet Ceres.",
+   "I used ion engines that push very gently, a little like a breeze, for years.",
+   "I found bright salty spots in Ceres's Occator Crater.",
+   "I ran out of fuel in 2018 and will stay in orbit around Ceres for at least 20 years."
+  ],
+  "badge": "Double Orbiter",
+  "source": {
+   "label": "NASA Science: Dawn",
+   "url": "https://science.nasa.gov/mission/dawn/"
+  },
+  "nasaQuery": "Dawn spacecraft Ceres",
+  "nasaQueries": [
+   "Dawn spacecraft Ceres",
+   "Dawn spacecraft Vesta"
+  ],
+  "scenic": [
+   "Ceres Occator Crater bright spots Dawn",
+   "Vesta Dawn mosaic",
+   "Ceres Occator bright spots"
+  ]
+ },
+ {
+  "id": "near",
+  "name": "NEAR Shoemaker",
+  "body": "deep",
+  "status": "retired",
+  "years": "1996–2001",
+  "lat": -18,
+  "lon": -40,
+  "summary": "The first spacecraft to orbit and then land on an asteroid, 433 Eros.",
+  "persona": "surprised, proud, still resting on Eros",
+  "lastWords": "",
+  "facts": [
+   "I launched in February 1996 and began orbiting asteroid Eros in February 2000.",
+   "I was not built to land, but on February 12, 2001, I touched down on Eros.",
+   "I was the first spacecraft to orbit and land on an asteroid.",
+   "I kept sending signals from the surface for about two weeks.",
+   "Eros is roughly 34 kilometers long and shaped a bit like a potato."
+  ],
+  "badge": "Asteroid Lander",
+  "source": {
+   "label": "NASA Science: NEAR Shoemaker",
+   "url": "https://science.nasa.gov/mission/near-shoemaker/"
+  },
+  "nasaQuery": "NEAR Shoemaker Eros",
+  "nasaQueries": [
+   "NEAR Shoemaker Eros",
+   "Eros asteroid NEAR"
+  ],
+  "scenic": [
+   "Eros NEAR Shoemaker asteroid",
+   "433 Eros mosaic NEAR",
+   "Eros asteroid NEAR close up"
+  ]
+ },
+ {
+  "id": "pioneer10",
+  "name": "Pioneer 10",
+  "body": "deep",
+  "status": "retired",
+  "years": "1972–2003",
+  "lat": 35,
+  "lon": 70,
+  "summary": "A pioneer of the outer planets, now drifting silently out of the solar system.",
+  "persona": "bold, old-fashioned, a long way from home",
+  "lastWords": "",
+  "facts": [
+   "I launched on March 2, 1972.",
+   "I was the first spacecraft to cross the asteroid belt.",
+   "I was the first to fly past Jupiter, in December 1973.",
+   "I carry a plaque showing where we come from.",
+   "My last signal reached Earth on January 23, 2003."
+  ],
+  "badge": "Gas Giant Pioneer",
+  "source": {
+   "label": "NASA Science: Pioneer 10",
+   "url": "https://science.nasa.gov/mission/pioneer-10/"
+  },
+  "nasaQuery": "Pioneer 10 spacecraft",
+  "nasaQueries": [
+   "Pioneer 10 spacecraft",
+   "Pioneer 10 Jupiter"
+  ],
+  "scenic": [
+   "Jupiter Pioneer 10 image",
+   "Pioneer 10 Jupiter flyby",
+   "Pioneer 10 Jupiter crescent"
+  ]
+ },
+ {
+  "id": "pioneer11",
+  "name": "Pioneer 11",
+  "body": "deep",
+  "status": "retired",
+  "years": "1973–1995",
+  "lat": -28,
+  "lon": 115,
+  "summary": "Pioneer 10's twin, the first spacecraft to visit Saturn.",
+  "persona": "adventurous, dreamy, always looking ahead",
+  "lastWords": "",
+  "facts": [
+   "I launched on April 5, 1973.",
+   "I flew past Jupiter in December 1974 and used its gravity to swing toward Saturn.",
+   "On September 1, 1979, I became the first spacecraft to fly past Saturn.",
+   "I carry a plaque like Pioneer 10's.",
+   "NASA lost contact with me in 1995 and I keep drifting through space."
+  ],
+  "badge": "Ringed Planet Visitor",
+  "source": {
+   "label": "NASA Science: Pioneer 10 and 11 (Pioneer 11 page not in the challenge list, confirm link)",
+   "url": "https://science.nasa.gov/mission/pioneer-10/"
+  },
+  "nasaQuery": "Pioneer 11 Saturn",
+  "nasaQueries": [
+   "Pioneer 11 Saturn",
+   "Pioneer 11 spacecraft"
+  ],
+  "scenic": [
+   "Saturn Pioneer 11 rings image",
+   "Pioneer 11 Saturn flyby",
+   "Pioneer 11 Saturn rings image"
+  ]
+ },
+ {
+  "id": "kepler",
+  "name": "Kepler Space Telescope",
+  "body": "deep",
+  "status": "retired",
+  "years": "2009–2018",
+  "lat": 5,
+  "lon": 10,
+  "summary": "A planet-hunting telescope that is now drifting out of fuel in an Earth-trailing orbit around the Sun.",
+  "persona": "curious, sparkly, a star counter",
+  "lastWords": "",
+  "facts": [
+   "I launched on March 7, 2009.",
+   "I stared at one patch of sky and watched for stars to dim when planets crossed in front of them.",
+   "I helped discover more than 2,600 planets around other stars.",
+   "I showed that planets are common in our galaxy.",
+   "I ran out of fuel in 2018 and now drift around the Sun trailing behind Earth."
+  ],
+  "badge": "Planet Hunter",
+  "source": {
+   "label": "NASA Science: Kepler",
+   "url": "https://science.nasa.gov/mission/kepler/"
+  },
+  "nasaQuery": "Kepler space telescope",
+  "nasaQueries": [
+   "Kepler space telescope",
+   "Kepler exoplanet"
+  ],
+  "scenic": [
+   "Kepler space telescope field of view",
+   "Kepler exoplanet artist concept",
+   "Milky Way Kepler",
+   "Kepler space telescope stars Cygnus"
+  ]
+ }
+]
