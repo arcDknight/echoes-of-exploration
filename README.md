@@ -4,14 +4,15 @@ NASA Space Apps Challenge 2026. Kids explore the Moon and Mars, click any spot o
 > **New here? Read `docs/START_HERE.md`** for setup (Git, Groq, Render), checklists and the file map.
 
 ## How it works
+```mermaid
 flowchart LR
   D[Challenge dataset] -->|config.js adapt| W[Website: map, 3D planet, mission pages]
   W -->|question + that mission's facts| S[FastAPI /chat]
-  S --> L["LangChain + free LLM (Groq / Gemini)"]
-  L -->|reply + fact used| S
-  S --> W
+  S --> L[LangChain + free LLM (Groq / Gemini)]
+  L -->|reply + fact used| S --> W
   W -->|shows reply + source| K((Child))
-
+```
+The AI may only use the facts it is sent and returns which fact it used, so the science stays accurate and checkable. If the server is down, the site falls back to built-in fact replies.
 
 ## Features
 Installable on phones like an app (PWA, works offline after first visit) · Comet-crossing title screen · live NASA photos and image library on mission pages · 3D Moon/Mars globe with clickable sites · mission pages with smooth transitions · AI chat in each spacecraft's voice · source shown under every answer · reading level (ages 6–8 / 9–12) · voice input and read-aloud · "View on planet" links · badges.
